@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39801#Fighting-with-French--A-Tale-of-the-New-Army
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2013-06-01'
 gutenberg_type: Text
